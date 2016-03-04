@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = Drumpfinator;
+	cell = PSLinkCell;
+	detail = DrumpfinatorListController;
+	icon = org.golde.cydia.drumpf.png;
+	isController = 1;
+	label = Drumpfinator;
+    };
+}

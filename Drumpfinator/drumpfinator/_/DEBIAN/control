@@ -1,0 +1,10 @@
+Package: org.golde.cydia.drumpfinator
+Name: Drumpfinator
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Based off of the google crome extention Drumpfinator. This tweak replaces the word "Trump" with "Drumpf".
+Maintainer: Eric Golde
+Author: Eric Golde
+Section: ECR_Tweaks
+Version: 1,0-2
+Installed-Size: 64
